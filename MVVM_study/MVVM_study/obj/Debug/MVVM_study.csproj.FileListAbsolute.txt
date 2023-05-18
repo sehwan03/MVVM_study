@@ -1,0 +1,15 @@
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\MainWindow.g.cs
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\App.g.cs
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\MVVM_study_MarkupCompile.cache
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\MVVM_study_MarkupCompile.lref
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\MVVM_study.csprojResolveAssemblyReference.cache
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\bin\Debug\MVVM_study.exe.config
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\bin\Debug\MVVM_study.exe
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\bin\Debug\MVVM_study.pdb
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\bin\Debug\Apparelbase.MVVMBase.dll
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\MainWindow.baml
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\MVVM_study.g.resources
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\MVVM_study.Properties.Resources.resources
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\MVVM_study.csproj.GenerateResource.Cache
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\MVVM_study.exe
+C:\Users\3alogics\documents\visual studio 2012\Projects\MVVM_study\MVVM_study\obj\Debug\MVVM_study.pdb
